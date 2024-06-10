@@ -1,38 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="130ee134-49ad-4480-9319-1ac92211177b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/cc-wc.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WC/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WC/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WC/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WC/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WC/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WC/src/main/java/org/sai/ccwc/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WC/src/main/java/org/sai/ccwc/WordCountInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WC/src/main/java/org/sai/ccwc/WordCountOption.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WC/src/main/java/org/sai/ccwc/controller/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WC/src/main/java/org/sai/ccwc/counters/AbstractCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WC/src/main/java/org/sai/ccwc/counters/ByteCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WC/src/main/java/org/sai/ccwc/counters/LineCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WC/src/main/java/org/sai/ccwc/counters/WordCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WC/src/main/java/org/sai/ccwc/inputprocessor/InputProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WC/src/main/java/org/sai/ccwc/inputprocessor/InputValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WC/src/main/java/org/sai/ccwc/outputgenerator/ErrorGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WC/src/main/java/org/sai/ccwc/outputgenerator/FileSuccessOutputGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WC/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WC/test2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/sai/ccwc/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/sai/ccwc/WordCountInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/sai/ccwc/WordCountOption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/sai/ccwc/controller/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/sai/ccwc/counters/AbstractCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/sai/ccwc/counters/ByteCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/sai/ccwc/counters/LineCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/sai/ccwc/counters/WordCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/sai/ccwc/inputprocessor/InputProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/sai/ccwc/inputprocessor/InputValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/sai/ccwc/outputgenerator/ErrorGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/sai/ccwc/outputgenerator/FileSuccessOutputGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="cc-wc" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="cc-wc" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="cc-wc" type="f1a62948:ProjectNode" />
+                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -48,17 +75,71 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/saimanoj/repos/CodingChallenges/cc-wc&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.cc-wc [byeWorld].executor": "Run",
+    "Gradle.cc-wc [helloWorld].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/saimanoj/repos/CodingChallenges/cc-wc",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RunManager" selected="Gradle.cc-wc [helloWorld]">
+    <configuration name="cc-wc [byeWorld]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="byeWorld" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="cc-wc [helloWorld]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="helloWorld" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.cc-wc [helloWorld]" />
+        <item itemvalue="Gradle.cc-wc [byeWorld]" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

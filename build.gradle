@@ -1,10 +1,10 @@
-task helloWorld {
+tasks.register('helloWorld') {
     doLast {
         println "Hello World, Gradle!"
     }
 }
 
-task byeWorld {
+tasks.register('byeWorld') {
     doFirst {
         println "Bye Gradle"
     }
