@@ -1,0 +1,11 @@
+task helloWorld {
+    doLast {
+        println "Hello World, Gradle!"
+    }
+}
+
+task byeWorld {
+    doFirst {
+        println "Bye Gradle"
+    }
+}

@@ -9,7 +9,7 @@ public class LineCounter extends AbstractCounter {
     }
 
     @Override
-    public long getCount() throws FileNotFoundException, IOException {
+    public long getCount() throws IOException {
         try (BufferedReader reader = new BufferedReader(new FileReader(this.file))) {
             long lineCount = 0;
             String lastLine = null;
